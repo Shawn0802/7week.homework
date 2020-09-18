@@ -1,2 +1,3 @@
 第七週
-https://github.com/Shawn0802/7week.homework.git/index.html.
+https://shawn0802.github.io/7week.homework/index.html.
+
